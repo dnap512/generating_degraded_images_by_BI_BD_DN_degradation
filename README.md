@@ -1,6 +1,6 @@
 # generating_degraded_images_by_BI_BD_DN_degradation
-This repository is for image generators that are degraded by BI, BD and DN methods using python.  
-BI is bicubic interpolation downsamplin method. And DN, BD degradation methods were introduced in [RDN](https://arxiv.org/pdf/1802.08797.pdf) paper.
+This repository is for image generators that are degraded by **BI**, **BD** and **DN** methods **using python**.  
+**BI** is bicubic interpolation downsampling method. And **DN**, **BD** degradation methods were introduced in [RDN](https://arxiv.org/pdf/1802.08797.pdf) paper.
 
 
 It can be used for generating Super-resolution dataset with python.  
