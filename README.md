@@ -2,5 +2,5 @@
 This repository is for image generators that are degraded by BI, BD and DN methods using python.
 
 ## Prerequisite
-scipy==1.0.0
+scipy==1.0.0  
 opencv-python
