@@ -11,4 +11,4 @@ It can be used for generating Super-resolution dataset with python.
 * opencv-python
 
 ## How to
-All you have to just input directory path of HR images in ipynb. That's all!
+Just modify one directory path of HR images in this [code](https://github.com/dnap512/generating_degraded_images_by_BI_BD_DN_degradation/blob/master/generating_image_degraded__from_HR_to_BI_DN_BD.ipynb). That's all!
