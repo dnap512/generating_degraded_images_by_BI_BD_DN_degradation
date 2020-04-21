@@ -7,5 +7,6 @@ It can be used for generating Super-resolution dataset with python.
 All you have to just input directory path of HR images. That's all!
 
 ## Prerequisite
+python >=3.6
 scipy==1.0.0  
 opencv-python
